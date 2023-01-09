@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@now/node": "^1.4.1",
-    "firebase-admin": "^8.10.0"
+    "firebase-admin": "^11.4.1"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^2.23.0",
